@@ -1,0 +1,4 @@
+codigo:
+DELETE FROM registrosvarios WHERE nombre='Pedro';
+
+En esta ocasion eliminamos el señor pedro de nuestra base datos.
